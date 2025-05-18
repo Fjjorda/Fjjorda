@@ -25,7 +25,7 @@
 
 ###
 
-- 📄 [Curriculum académico](https://drive.google.com/file/d/1dlnarKHfPEQZ8LnI9ObPyLY3RB14XZd6/view?usp=sharing).
+- 📄 [Curriculum académico](https://drive.google.com/file/d/1ofFcYOsmYQ0KeLop81w8Yg4sZmHoCkVP/view?usp=sharing).
 
 
 ###
