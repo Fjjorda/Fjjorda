@@ -5,7 +5,7 @@
 <h3 align="left">Estudiante Ingeniero de Software comprometido y responsable📍🇪🇸</h3>
 
 
-- Estoy trabajando en Dream_Sync(https://github.com/AcnlF-T/Dream_Sync).
+- Estoy trabajando en [Dream_Sync](https://github.com/AcnlF-T/Dream_Sync).
 
 - Mi proxima meta es **Desarrollar una app que ayude a gestionar stock y donaciones de una organización sin animo de lucro**.
 
@@ -23,7 +23,7 @@
 
 ###
 
-- 📄 [Curriculum académico](https://drive.google.com/file/d/1ofFcYOsmYQ0KeLop81w8Yg4sZmHoCkVP/view?usp=sharing).
+- 📄 [Curriculum académico](https://drive.google.com/file/d/1zllp-el-E6mX-0vfJEo5L1HXv2AxyUqn/view?usp=sharing).
 
 
 ###
