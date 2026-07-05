@@ -5,11 +5,9 @@
 <h3 align="left">Estudiante Ingeniero de Software comprometido y responsable📍🇪🇸</h3>
 
 
-- Estoy trabajando en [VirtualPetApp](https://github.com/Fjjorda/VirtualPetApp).
+- Estoy trabajando en Dream_Sync(https://github.com/AcnlF-T/Dream_Sync).
 
-- Mi proxima meta es aprender **Flutter & Dart**.
-
-- Actualmente leo **Flutter Apprentice**.
+- Mi proxima meta es **Desarrollar una app que ayude a gestionar stock y donaciones de una organización sin animo de lucro**.
 
 - Me puedes contactar a través de **fjjordagaray@gmail.com** o puedes conectar conmigo por LinkedIn:
 
