@@ -19,7 +19,7 @@ I'm **Francisco Jord√°**, a Software Engineering student at the University of M√
 
 - I'm currently building **Casa Esperanza**, my final-year project.
 - I'm currently reading [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/), 2nd edition.
-- [Academic CV](https://drive.google.com/file/d/1zllp-el-E6mX-0vfJEo5L1HXv2AxyUqn/view?usp=sharing)
+- [Academic CV](https://drive.google.com/file/d/1jaqhrDw1KICGA-gFPKjYgXCdYGwP88JI/view?usp=sharing)
 
 ## stack/
 
