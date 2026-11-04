@@ -15,8 +15,7 @@
   <img src="assets/scene-02-about.svg" width="640" alt="An ASCII fox walking towards two trees">
 </p>
 
-I'm **Francisco Jordá**, a Software Engineering student at the University of Málaga, originally from Venezuela 🇻🇪 and now based in Spain📍🇪🇸   
-I mostly build full-stack applications with Java, Spring Boot and TypeScript.
+I'm **Francisco Jordá**, a Software Engineering student at the University of Málaga, originally from Venezuela 🇻🇪 and now based in Spain📍🇪🇸 I mostly build full-stack applications with Java, Spring Boot and TypeScript.
 
 - I'm currently building **Casa Esperanza**, my final-year project.
 - I'm currently reading [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/), 2nd edition.
