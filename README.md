@@ -15,17 +15,14 @@
   <img src="assets/scene-02-about.svg" width="640" alt="An ASCII fox walking towards two trees">
 </p>
 
-I'm **Francisco Jordá**, a Software Engineering student at the University of Málaga, originally from Venezuela and now based in Spain. I mostly build full-stack applications with Java, Spring Boot and TypeScript.
+I'm **Francisco Jordá**, a Software Engineering student at the University of Málaga, originally from Venezuela 🇻🇪 and now based in Spain📍🇪🇸   
+I mostly build full-stack applications with Java, Spring Boot and TypeScript.
 
 - I'm currently building **Casa Esperanza**, my final-year project.
 - I'm currently reading [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/), 2nd edition.
 - [Academic CV](https://drive.google.com/file/d/1jaqhrDw1KICGA-gFPKjYgXCdYGwP88JI/view?usp=sharing)
 
 ## stack/
-
-<p align="center">
-  <img src="assets/scene-07-stack.svg" width="640" alt="An ASCII fox next to its den, with a prompt blinking inside">
-</p>
 
 **Languages**
 
@@ -125,10 +122,6 @@ Homebrew app for the Nintendo 3DS that backs up and syncs save files through Git
 ![libctru](https://img.shields.io/badge/libctru-24292f?style=flat-square)
 
 ## contact/
-
-<p align="center">
-  <img src="assets/scene-08-contact.svg" width="640" alt="An ASCII fox settling down to sleep under the moon">
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fjjordagaray"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
