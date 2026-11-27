@@ -2,12 +2,7 @@
   <img src="assets/scene-01-login.svg" width="640" alt="Terminal login animation that ends with access granted">
 </p>
 
-<p align="center">
-  <a href="#about"><code>about/</code></a> &nbsp;
-  <a href="#stack"><code>stack/</code></a> &nbsp;
-  <a href="#projects"><code>projects/</code></a> &nbsp;
-  <a href="#contact"><code>contact/</code></a>
-</p>
+
 
 ## about/
 
